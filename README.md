@@ -1,4 +1,4 @@
-# OptiTrie 🌐📞
+# Trie Connect 🌐📞
 
 ## Problem Solved 🚀
 
