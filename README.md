@@ -2,7 +2,7 @@
 
 ## Problem Solved 🚀
 
-In the realm of contact management systems, efficient search capabilities are crucial for quick and accurate retrieval of contact information. Traditional methods often struggle with performance issues when handling large datasets or conducting prefix-based searches. OptiTrie addresses these challenges by implementing advanced Trie data structures, significantly improving search efficiency. By organizing contacts using Trie structures, OptiTrie enables rapid retrieval and management of contact information, optimizing user experience and operational efficiency.
+In the realm of contact management systems, efficient search capabilities are crucial for quick and accurate retrieval of contact information. Traditional methods often struggle with performance issues when handling large datasets or conducting prefix-based searches. Trie Connect addresses these challenges by implementing advanced Trie data structures, significantly improving search efficiency. By organizing contacts using Trie structures, Trie Connect enables rapid retrieval and management of contact information, optimizing user experience and operational efficiency.
 
 ## Technology Stack 💡
 
