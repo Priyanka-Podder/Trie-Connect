@@ -32,7 +32,7 @@ onload = function () {
 
     del.onclick = function () {
         let details = delete_info.value.trim();
-        if(details.length!==6){
+        if(details.length!==10){
             alert("Incorrectly formatted input");
             return;
         }
